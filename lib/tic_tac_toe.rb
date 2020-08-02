@@ -118,5 +118,6 @@ class TicTacToe
     end
   end
   
-  game = 
+  game = TicTacToe.new
+  
 end
